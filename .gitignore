@@ -1,0 +1,7 @@
+# Source material and working files — not part of the deployed site.
+*.jpeg
+action physio clinic*.jpg
+Screenshot*.png
+_og.html
+_options/
+PROJECT-CONTEXT.md
